@@ -1,0 +1,14 @@
+Document Object:
+- Represents a loaded web page.
+- Accessed via window.document or document.
+- Used for manipulating HTML content.
+- Common properties: activeElement, body, title, etc.
+- Common methods: addEventListener(), adoptNode(), etc.
+Window Object:
+- Represents the browser window/tab.
+- Accessed via window.
+- Includes broader properties and methods.
+- Contains the document property.
+- Provides info about the window itself.
+- Examples: screen, location, etc.
+Remember, the document focuses on content, while the window encompasses the entire browser context 
